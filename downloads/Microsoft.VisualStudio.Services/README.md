@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `Microsoft.VisualStudio.Services.VSIXPackage` |
-| **Size** | .01 MB |
+| **Size** | 15.86 MB |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
